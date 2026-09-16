@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.istockphoto.com/id/1479525513/es/vector/desarrollo-de-software-banner-programaci%C3%B3n-sitio-web-y-app.jpg?s=170667a&w=0&k=20&c=pRP3VR4jxVynFCNTiJoHKsuij-ofie_PaQRRcVUbAxY=" alt="Banner - Jhonny Miñan" width="100%" />
+  <img src="https://media.istockphoto.com/id/1479525513/es/vector/desarrollo-de-software-banner-programaci%C3%B3n-sitio-web-y-app.jpg?s=170667a&w=0&k=20&c=pRP3VR4jxVynFCNTiJoHKsuij-ofie_PaQRRcVUbAxY=" alt="Banner - Jhonny Miñán" width="100%" />
 </p>
 
-<h1 align="center">👋 ¡Hola, soy Jhonny Miñan!</h1>
+<h1 align="center">👋 ¡Hola, soy Jhonny Miñán!</h1>
 
 <p align="center">
   💻 Desarrollador <strong>Full Stack</strong> con experiencia en aplicaciones web modernas.<br>
@@ -22,7 +22,44 @@
 
 ---
 
-### 🚀 Mis proyectos destacados
+### 🚀 Proyectos completados
+
+<p align="center">
+  <strong>🌐 Explora algunos de mis proyectos desplegados</strong>
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://operacionadmin.com/" target="_blank">
+        <img src="https://image.thum.io/get/width/1000/crop/650/https://operacionadmin.com/" alt="Cuspude - Operación Admin" width="100%" />
+      </a>
+      <br />
+      <strong>🚀 Cuspude</strong>
+      <br />
+      Sistema web desplegado para gestión administrativa.
+      <br />
+      <a href="https://operacionadmin.com/">🔗 Ver proyecto</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://clinical-admin.xo.je/?i=1" target="_blank">
+        <img src="https://image.thum.io/get/width/1000/crop/650/https://clinical-admin.xo.je/?i=1" alt="Clínica - Clinical Admin" width="100%" />
+      </a>
+      <br />
+      <strong>🏥 Clínica</strong>
+      <br />
+      Sistema web para administración y gestión de una clínica.
+      <br />
+      <a href="https://clinical-admin.xo.je/?i=1">🔗 Ver proyecto</a>
+    </td>
+  </tr>
+</table>
+
+> 💡 **Nota:** GitHub no permite ejecutar JavaScript ni CSS personalizado dentro del README de perfil. Por eso esta sección utiliza una galería de miniaturas compatible con GitHub, con cada proyecto enlazado directamente a su sitio desplegado.
+
+---
+
+### 📌 Otros proyectos destacados
 
 | Proyecto | Descripción | Lenguaje |
 |-----------|--------------|----------|
